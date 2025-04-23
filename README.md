@@ -1,6 +1,4 @@
 # web-scrapping
-Here’s the updated `README.md` without the structure and how-to-run sections:
-
 ---
 
 # 🔍 Web Scraping Project (Amazon + Book Site)
